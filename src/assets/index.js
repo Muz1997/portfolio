@@ -20,6 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import ai from "./tech/ai.png";
+import csharp from "./tech/csharp.png";
+import graph from "./tech/graph.png";
+import python from "./tech/python.png";
+import sqlserver from "./tech/sqlserver.png";
 
 import meta from "./company/meta.png";
 import digitalsoft from "./company/digitalsoft.png";
@@ -47,6 +52,11 @@ export {
   docker,
   figma,
   git,
+  ai,
+  csharp,
+  graph,
+  python,
+  sqlserver,
   html,
   javascript,
   mongodb,

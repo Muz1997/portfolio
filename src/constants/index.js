@@ -25,6 +25,11 @@ import {
   jobit,
   tripguide,
   threejs,
+  ai,
+  csharp,
+  graph,
+  python,
+  sqlserver,
 } from "../assets";
 
 export const navLinks = [
@@ -75,40 +80,40 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
   {
     name: "C#",
-    icon: redux,
+    icon: csharp,
   },
   {
     name: "Python",
-    icon: tailwind,
+    icon: python,
   },
   {
     name: "Node JS",
     icon: nodejs,
   },
   {
+    name: "Artificial Intelligence",
+    icon: ai,
+  },
+  {
     name: "MongoDB",
     icon: mongodb,
   },
-  // {
-  //   name: "React JS",
-  //   icon: threejs,
-  // },
+  {
+    name: "GraphQL",
+    icon: graph,
+  },
+  {
+    name: "SQL Server",
+    icon: sqlserver,
+  },
   {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "docker",
