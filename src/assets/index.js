@@ -22,6 +22,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
+import digitalsoft from "./company/digitalsoft.png";
+import comvision from "./company/comvision.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
@@ -32,6 +34,8 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  digitalsoft,
+  comvision,
   backend,
   creator,
   mobile,
