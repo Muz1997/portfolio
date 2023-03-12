@@ -30,6 +30,10 @@ import {
   graph,
   python,
   sqlserver,
+  neo4jfundamentals,
+  neo4jmodeling,
+  skillupagile,
+  brokenlink,
 } from "../assets";
 
 export const navLinks = [
@@ -177,28 +181,28 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    name: "Neo4j Fundamentals",
+    link:
+      "https://graphacademy.neo4j.com/c/332a400c-1d1f-4a83-b112-aee13c5c2900/",
+    designation: "GraphAcademy",
+    image:
+      "https://cdn.graphacademy.neo4j.com/assets/img/courses/badges/neo4j-fundamentals.svg",
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    name: "Agile Scrum Foundation",
+    link:
+      "https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDE1OTY1Ml8xNjc2MzA0OTgxLnBuZyIsInVzZXJuYW1lIjoiTXV6YW0gQWxpIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1075369612049352593&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVL6pI8S%2FIMknKr0gCAO8fhc4lAAAA",
+    designation: "Simplilearn",
+    image:
+      "https://certificates.simplicdn.net/share/thumb_4159652_1676304981.png",
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    name: "Graph Data Modeling Fundamentals",
+    link:
+      "https://graphacademy.neo4j.com/c/a2af2958-843d-4223-add4-f981faa37f60/",
+    designation: "GraphAcademy",
+    image:
+      "https://cdn.graphacademy.neo4j.com/assets/img/courses/badges/modeling-fundamentals.svg",
   },
 ];
 

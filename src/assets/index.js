@@ -33,11 +33,20 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import neo4jfundamentals from "./certificates/neo4jfundamentals.svg";
+import neo4jmodeling from "./certificates/neo4jmodeling.svg";
+import skillupagile from "./certificates/skillupagile.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import brokenlink from "./brokenlink.png";
 
 export {
+  brokenlink,
+  neo4jfundamentals,
+  neo4jmodeling,
+  skillupagile,
   logo,
   digitalsoft,
   comvision,
