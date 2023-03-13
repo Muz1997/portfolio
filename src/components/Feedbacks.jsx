@@ -6,8 +6,6 @@ import { fadeIn, textVariant } from "../utlis/motion";
 import { testimonials } from "../constants";
 import { brokenlink } from "../assets";
 
-import { Swiper, SwiperSlide } from "swiper/react";
-
 const Feedbacks = () => {
   const FeedbackCard = ({ index, name, designation, link, image }) => (
     <motion.div variants={fadeIn("", "spring", index * 0.5, 0.75)}>
