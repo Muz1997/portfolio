@@ -51,7 +51,7 @@ const Feedbacks = () => {
       >
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>
-            What certificates achieved so far
+            What certificates achieved so far at this moment
           </p>
           <h2 className={styles.sectionHeadText}>Certificates.</h2>
         </motion.div>
